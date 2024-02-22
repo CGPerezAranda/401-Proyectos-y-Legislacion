@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.22)  22 FEB 2024 16:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.2.22)  22 FEB 2024 17:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -58,11 +58,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 12.
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
-\OT1/cmr/m/n/12 form^^Satica. Uni-ver-si-dad de M^^Salaga.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
@@ -79,44 +74,99 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--46
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--72
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--75
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--79
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--83
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
 
  []
 
-[3] [4] [5] [6] [7] (./Proyectos y Legislacion.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--104
+
+ []
+
+
+Overfull \hbox (10.35477pt too wide) in paragraph at lines 112--113
+[]\OT1/cmr/m/n/12 Hay cat-e-gor^^S^^Pas \OT1/cmr/bx/n/12 es-pe-ciales \OT1/cmr/m/n/12 de datos per-son-ales que re-quieren un tratamiento
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+[4] [5] [6] [7] [8] (./Proyectos y Legislacion.aux) ) 
 Here is how much of TeX's memory you used:
- 464 strings out of 480247
- 8967 string characters out of 5896151
+ 465 strings out of 480247
+ 8985 string characters out of 5896151
  299027 words of memory out of 5000000
- 18479 multiletter control sequences out of 15000+600000
+ 18480 multiletter control sequences out of 15000+600000
  472673 words of font info for 39 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  33i,7n,38p,327b,202s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/carlos/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Proyectos y Legislacion.pdf" (7 pages, 62975 bytes).
+Output written on "Proyectos y Legislacion.pdf" (8 pages, 67979 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
