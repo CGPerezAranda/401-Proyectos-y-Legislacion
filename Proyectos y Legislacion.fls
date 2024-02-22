@@ -1,50 +1,68 @@
-PWD g:\Mi unidad\Universidad\23-24\2°Cuatrimestre\401-Proyectos-y-Legislacion
-INPUT C:\Users\cgper\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT g:\Mi unidad\Universidad\23-24\2°Cuatrimestre\401-Proyectos-y-Legislacion\Proyectos y Legislacion.tex
+PWD /home/carlos/Documentos/401-Proyectos-y-Legislacion
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/carlos/Documentos/401-Proyectos-y-Legislacion/Proyectos y Legislacion.tex
 OUTPUT Proyectos y Legislacion.log
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-es.ini
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\Proyectos y Legislacion.aux
-INPUT .\Proyectos y Legislacion.aux
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT ./Proyectos y Legislacion.aux
+INPUT Proyectos y Legislacion.aux
 INPUT Proyectos y Legislacion.aux
 OUTPUT Proyectos y Legislacion.aux
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT Proyectos y Legislacion.pdf
-INPUT C:\Users\cgper\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT Proyectos y Legislacion.aux
-INPUT C:\Users\cgper\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
-INPUT C:\Users\cgper\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\cgper\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT /home/carlos/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
